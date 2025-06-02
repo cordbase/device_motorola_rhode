@@ -167,6 +167,9 @@ vendor/lib64/camera/com.qti.tuned.mot_rhode_ov16a1q.bin
 vendor/lib64/camera/com.qti.tuned.mot_rhode_s5k4h7.bin
 vendor/lib64/camera/com.qti.tuned.mot_rhode_s5kjn1.bin
 
+# Capsense
+vendor/bin/capsense_reset
+
 # Display (Calibration Data)
 vendor/etc/qdcm_calib_data_mipi_mot_cmd_csot_1080p_dsc_655.xml
 vendor/etc/qdcm_calib_data_mipi_mot_cmd_csot_vt_1080p_dsc_655.xml
